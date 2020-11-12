@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "lucia",
+      "occupation": "dfg",
+      "weapon": "as",
+      "cartoon": true
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "Freya",
+      "occupation": "Sleep",
+      "weapon": "Claws",
+      "cartoon": true,
+      "id": 4
+    }
+  ]
+}
